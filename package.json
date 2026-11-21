@@ -1,0 +1,22 @@
+{
+  "name": "airplane-tracking-frontend",
+  "version": "2.0.0",
+  "description": "SkyPulse · Live Flight Radar & Airspace Boarding Control",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "flight-radar",
+    "flight-tracking",
+    "boarding-control",
+    "avionics",
+    "leaflet"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^10.0.6"
+  }
+}
